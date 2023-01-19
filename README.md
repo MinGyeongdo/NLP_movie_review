@@ -18,7 +18,7 @@
 ### 모델 학습 결과 화면
 > <img width="347" alt="NLP 모델 학습 결과" src="https://user-images.githubusercontent.com/106360843/213375101-c522056f-c274-4621-9daa-36de60538a9e.png">
 <br>
-### 수집데이터 분류 결과
+###  수집데이터 분류 결과
 > <img width="511" alt="NLP 모델 분류 결과" src="https://user-images.githubusercontent.com/106360843/213375223-c312b745-5ea2-4b80-b709-bcb277bc8747.png">
 ## 결과 정리 및 개선점
 
