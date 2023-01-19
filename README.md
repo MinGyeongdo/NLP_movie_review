@@ -6,34 +6,34 @@
 이러한 점을 고려하여, 리뷰텍스트를 분석하여 긍정적인지 부정적인지 분류하면 좀 더 영화에 대한 객관적인 지표를 얻을 수 있다는 생각해서 진행한 프로젝트입니다.
 ## 프로젝트 개요
 ---------------------
-<img width="586" alt="NLP 프로젝트 진행 순서" src="https://user-images.githubusercontent.com/106360843/213373179-78f92165-16ba-4a37-afec-0a222eea94e8.png">
+> <img width="586" alt="NLP 프로젝트 진행 순서" src="https://user-images.githubusercontent.com/106360843/213373179-78f92165-16ba-4a37-afec-0a222eea94e8.png">
 <br>
 ## 데이터 개요
 ------------------
 <br>
 ### 수집한 데이터
 ------------------------
-<img width="516" alt="NLP 데이터개요(1)" src="https://user-images.githubusercontent.com/106360843/213374316-ed542617-f340-4fc7-9682-d904879e6960.png">
+> <img width="516" alt="NLP 데이터개요(1)" src="https://user-images.githubusercontent.com/106360843/213374316-ed542617-f340-4fc7-9682-d904879e6960.png">
 <br>
 ### 학습에 사용될 데이터
 --------------------------
-<img width="416" alt="NLP 데이터개요(2)" src="https://user-images.githubusercontent.com/106360843/213374617-42fbdb11-91b0-42d8-abf7-e992d9c50b86.png">
+> <img width="416" alt="NLP 데이터개요(2)" src="https://user-images.githubusercontent.com/106360843/213374617-42fbdb11-91b0-42d8-abf7-e992d9c50b86.png">
 <br>
 ### 데이터 워드 클라우드
 ---------------------------
-<img width="535" alt="NLP 데이터개요(3)" src="https://user-images.githubusercontent.com/106360843/213374742-58401786-36c8-4cab-b0f4-f62a2a492405.png">
+> <img width="535" alt="NLP 데이터개요(3)" src="https://user-images.githubusercontent.com/106360843/213374742-58401786-36c8-4cab-b0f4-f62a2a492405.png">
 <br>
 ## 모델 학습
 ---------------
-<img width="472" alt="NLP 데이터개요(4)" src="https://user-images.githubusercontent.com/106360843/213374942-9e0381e9-19fe-4ac3-8775-74a0b667af6d.png">
+> <img width="472" alt="NLP 데이터개요(4)" src="https://user-images.githubusercontent.com/106360843/213374942-9e0381e9-19fe-4ac3-8775-74a0b667af6d.png">
 <br>
 ### 모델 학습 결과 화면
 ------------------------
-<img width="347" alt="NLP 모델 학습 결과" src="https://user-images.githubusercontent.com/106360843/213375101-c522056f-c274-4621-9daa-36de60538a9e.png">
+> <img width="347" alt="NLP 모델 학습 결과" src="https://user-images.githubusercontent.com/106360843/213375101-c522056f-c274-4621-9daa-36de60538a9e.png">
 <br>
 ### 수집데이터 분류 결과
 -----------------------------
-<img width="511" alt="NLP 모델 분류 결과" src="https://user-images.githubusercontent.com/106360843/213375223-c312b745-5ea2-4b80-b709-bcb277bc8747.png">
+> <img width="511" alt="NLP 모델 분류 결과" src="https://user-images.githubusercontent.com/106360843/213375223-c312b745-5ea2-4b80-b709-bcb277bc8747.png">
 <br>
 ## 결과 정리 및 개선점
 --------------------------
